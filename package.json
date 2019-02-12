@@ -1,0 +1,18 @@
+{
+  "name": "solidity",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "coverage": "./node_modules/.bin/solidity-coverage"
+  },
+  "dependencies": {
+    "solc": "*",
+    "openzeppelin-test-helpers": "^0.1.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "coveralls": "^3.0.2",
+    "mocha": "^5.2.0",
+    "solidity-coverage": "^0.5.11"
+  }
+}
