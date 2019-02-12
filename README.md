@@ -5,21 +5,25 @@ Basic JavaScript test environment for Ethereum smart contracts written in Solidi
 
 First run `npm i` to install the dependencies.
 
-Need Truffle and Ganache.
+Also need Truffle and Ganache.
 
 ## Tests
+
+First:
 
 ```bash
 ganache-cli
 ```
 
-Now we're ready to run the tests, open new terminal tab and:
+Now we're ready to run the tests, open a new terminal and:
 
 ```bash
 truffle test
 ```
 
 ## Coverage Tests
+
+With ganache running:
 
 ```bash
 npm run coverage
