@@ -9,13 +9,13 @@ Also need Truffle and Ganache.
 
 ## Tests
 
-First:
+First in a terminal run:
 
 ```bash
 ganache-cli
 ```
 
-Now we're ready to run the tests, open a new terminal and:
+Now we're ready to run tests, open another terminal and:
 
 ```bash
 truffle test
