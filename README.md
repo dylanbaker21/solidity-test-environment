@@ -1,8 +1,6 @@
 # solidity-test-environment
 Basic JavaScript test environment for Ethereum smart contracts written in Solidity. Includes coverage tests.
 
-# test-environment
-
 ## Intro
 
 First run `npm i` to install the dependencies.
